@@ -1,4 +1,4 @@
 Arduino-RGB
 ===========
 
-The Atmega8 MCU receives a rgb combination and sends it to the leds to modify the colour 
+The Atmega8 MCU of the custom designed Arduino board receives a combination of rgb from Labview on the PC.
