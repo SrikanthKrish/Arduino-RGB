@@ -11,7 +11,7 @@ int incomingByte = 0;   // to hold incoming serial data
 
 // pin number to connect red green and blue leds
 int red = 9;          
-int green = 10;
+int green = 10; 
 int blue = 11;
 
 int brightness = 0;    //default brightness level of leds
